@@ -5,3 +5,6 @@ The ecxel has following columns
 3.Original File Name	
 4. New file Number
 
+Command for Running the project 
+Node index.js
+
